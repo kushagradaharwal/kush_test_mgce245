@@ -11,6 +11,7 @@ use Magento\SamplePaymentGateway\Gateway\Response\FraudHandler;
 
 class Info extends ConfigurableInfo
 {
+    
     /**
      * Returns label
      *
